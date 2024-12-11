@@ -1,0 +1,11 @@
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\bin\Debug\net8.0\GestionEstudiantes.Modelos.deps.json
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\bin\Debug\net8.0\GestionEstudiantes.Modelos.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\bin\Debug\net8.0\GestionEstudiantes.Modelos.pdb
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.AssemblyInfoInputs.cache
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.AssemblyInfo.cs
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\refint\GestionEstudiantes.Modelos.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.pdb
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\ref\GestionEstudiantes.Modelos.dll

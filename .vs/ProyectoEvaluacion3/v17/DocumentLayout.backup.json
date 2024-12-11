@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\vistas\\listarestudiantes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\vistas\\listarestudiantes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\vistas\\listarestudiantes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\vistas\\listarestudiantes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45368BF7-D635-443B-90D7-99AC3CBF8141}|GestionEstudiantes.Modelos\\GestionEstudiantes.Modelos.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestionestudiantes.modelos\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45368BF7-D635-443B-90D7-99AC3CBF8141}|GestionEstudiantes.Modelos\\GestionEstudiantes.Modelos.csproj|solutionrelative:gestionestudiantes.modelos\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\vistas\\crearestudiante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\vistas\\crearestudiante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|c:\\users\\tapiagnz-pc\\source\\repos\\proyectoevaluacion3\\gestion_estudiantes\\vistas\\crearestudiante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C96CB7CA-7136-4ECB-9A61-BC6E0E25DB14}|gestion_estudiantes\\gestion_estudiantes.csproj|solutionrelative:gestion_estudiantes\\vistas\\crearestudiante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\MainPage.xaml.cs",
+              "RelativeToolTip": "gestion_estudiantes\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:37:34.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\GestionEstudiantes.Modelos\\Modelos\\Estudiante.cs",
+              "RelativeDocumentMoniker": "GestionEstudiantes.Modelos\\Modelos\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\GestionEstudiantes.Modelos\\Modelos\\Estudiante.cs",
+              "RelativeToolTip": "GestionEstudiantes.Modelos\\Modelos\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:43:31.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\MainPage.xaml",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\MainPage.xaml",
+              "RelativeToolTip": "gestion_estudiantes\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T00:27:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\AppShell.xaml.cs",
+              "RelativeToolTip": "gestion_estudiantes\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:26:56.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\AppShell.xaml",
+              "RelativeToolTip": "gestion_estudiantes\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T00:26:40.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\App.xaml",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\App.xaml",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\App.xaml",
+              "RelativeToolTip": "gestion_estudiantes\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T00:26:29.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrearEstudiante.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "RelativeToolTip": "gestion_estudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:21:26.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarEstudiantes.xaml",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml",
+              "RelativeToolTip": "gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T21:07:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarEstudiantes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml.cs",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml.cs",
+              "RelativeToolTip": "gestion_estudiantes\\Vistas\\ListarEstudiantes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:07:11.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\MauiProgram.cs",
+              "RelativeToolTip": "gestion_estudiantes\\MauiProgram.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:27:30.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\App.xaml.cs",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\App.xaml.cs",
+              "RelativeToolTip": "gestion_estudiantes\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:07:45.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrearEstudiante.xaml",
+              "DocumentMoniker": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\CrearEstudiante.xaml",
+              "RelativeDocumentMoniker": "gestion_estudiantes\\Vistas\\CrearEstudiante.xaml",
+              "ToolTip": "C:\\Users\\TapiaGnz-PC\\source\\repos\\ProyectoEvaluacion3\\gestion_estudiantes\\Vistas\\CrearEstudiante.xaml",
+              "RelativeToolTip": "gestion_estudiantes\\Vistas\\CrearEstudiante.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T22:13:24.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
