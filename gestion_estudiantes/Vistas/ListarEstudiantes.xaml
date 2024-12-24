@@ -37,6 +37,8 @@
                             </Grid.RowDefinitions>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="Auto"/>
                             </Grid.ColumnDefinitions>
                             <Image Grid.RowSpan="2"
@@ -47,15 +49,31 @@
                             <Label Grid.Column="1"
                                    Grid.Row="0"
                                    Text="{Binding NombreCompleto}"
-                                   FontAttributes="Bold"
                                    FontSize="20"/>
                             <Label Grid.Column="1"
                                    Grid.Row="1"
                                    Text="{Binding Curso.Nombre}"/>
+                            <ImageButton x:Name="EditarImgButton"
+                                         Grid.Column="2"
+                                         Grid.RowSpan="1"
+                                         Source="edit.png"
+                                         BackgroundColor="Transparent"
+                                         HeightRequest="25"
+                                         WidthRequest="25"
+                                         CommandParameter="{Binding .}"
+                                         Clicked="EditarImgButton_Clicked"/>
+                            <ImageButton x:Name="DeshabilitarImgButton"
+                                         Grid.Column="3"
+                                         Grid.RowSpan="1"
+                                         Source="disable.png"
+                                         BackgroundColor="Transparent"
+                                         HeightRequest="25"
+                                         WidthRequest="25"
+                                         CommandParameter="{Binding .}"
+                                         Clicked="DeshabilitarImgButton_Clicked"/>
                         </Grid>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
-
             </CollectionView>
         </Grid>
     </ScrollView>

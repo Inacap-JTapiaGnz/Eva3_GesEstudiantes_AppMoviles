@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionEstudiantes.Modelos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4405ddaf5107f20ae9f6458c5d39824c1180f7ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionEstudiantes.Modelos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionEstudiantes.Modelos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

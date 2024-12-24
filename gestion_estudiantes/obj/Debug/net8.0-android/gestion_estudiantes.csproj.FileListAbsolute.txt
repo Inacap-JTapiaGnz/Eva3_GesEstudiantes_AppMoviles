@@ -1572,3 +1572,11 @@ C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\De
 C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\android\assets\System.Reactive.dll
 C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\resizetizer\r\drawable\profile.jpg
 C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\gestion_estudiantes.sourcelink.json
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\bin\Debug\net8.0-android\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\bin\Debug\net8.0-android\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\bin\Debug\net8.0-android\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\resizetizer\r\drawable\disable.png
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\resizetizer\r\drawable\edit.png
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\android\assets\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\android\assets\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\gestion_estudiantes\obj\Debug\net8.0-android\android\assets\Microsoft.VisualStudio.DesignTools.TapContract.dll

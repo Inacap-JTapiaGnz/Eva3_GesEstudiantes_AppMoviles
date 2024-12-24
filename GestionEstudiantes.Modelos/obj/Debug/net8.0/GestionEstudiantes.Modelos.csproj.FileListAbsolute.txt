@@ -9,3 +9,4 @@ C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos
 C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\refint\GestionEstudiantes.Modelos.dll
 C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.pdb
 C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\ref\GestionEstudiantes.Modelos.dll
+C:\Users\TapiaGnz-PC\source\repos\ProyectoEvaluacion3\GestionEstudiantes.Modelos\obj\Debug\net8.0\GestionEstudiantes.Modelos.sourcelink.json

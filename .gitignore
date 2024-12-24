@@ -1,0 +1,9 @@
+# Ignorar carpetas y archivos generados automáticamente
+.vs/
+obj/
+bin/
+*.user
+*.suo
+*.vscode/
+*.vsidx
+*.log
