@@ -1,4 +1,5 @@
 using Firebase.Database;
+using Firebase.Database.Query;
 using GestionEstudiantes.Modelos.Modelos;
 using System.Collections.ObjectModel;
 
@@ -15,15 +16,32 @@ public partial class ListarEstudiantes : ContentPage
         CargarLista();
     }
 
-    private void CargarLista()
+    private async void CargarLista()
     {
-        client.Child("Estudiantes").AsObservable<Estudiante>().Subscribe((estudiante) =>
+        //Limpiar la lista
+        Lista.Clear();
+
+        //Obtener los estudiantes de la base de datos
+        var estudiantes = await client.Child("Estudiantes").OnceAsync<Estudiante>();
+
+        //Filtrar los estudiantes activos
+        var estudiantesActivos = estudiantes.Where(e => e.Object.Estado == true).ToList();
+
+        foreach (var estudiante in estudiantesActivos)
         {
-            if (estudiante != null)
+            Lista.Add(new Estudiante
             {
-                Lista.Add(estudiante.Object);
-            }
-        });
+                Id = estudiante.Key,
+                PrimerNombre = estudiante.Object.PrimerNombre,
+                SegundoNombre = estudiante.Object.SegundoNombre,
+                PrimerApellido = estudiante.Object.PrimerApellido,
+                SegundoApellido = estudiante.Object.SegundoApellido,
+                CorreoElectronico = estudiante.Object.CorreoElectronico,
+                Edad = estudiante.Object.Edad,
+                Estado = estudiante.Object.Estado,
+                Curso = estudiante.Object.Curso
+            });
+        }
     }
 
     private void filtroSearchBar_TextChanged(object sender, TextChangedEventArgs e)
@@ -43,5 +61,56 @@ public partial class ListarEstudiantes : ContentPage
     private async void NuevoEstudianteButton_Clicked(object sender, EventArgs e)
     {
         await Navigation.PushAsync(new CrearEstudiante());
+    }
+
+    private async void EditarImgButton_Clicked(object sender, EventArgs e)
+    {
+        var boton = sender as ImageButton;
+        var estudiante = boton?.CommandParameter as Estudiante;
+
+        if (estudiante != null &&!string.IsNullOrEmpty(estudiante.Id))
+        {
+            await Navigation.PushAsync(new EditarEstudiante(estudiante.Id));
+        }
+        else
+        {
+            await DisplayAlert("Error", "No se pudo obtener el id del estudiante", "Ok");
+        }
+    }
+
+    private async void DeshabilitarImgButton_Clicked(object sender, EventArgs e)
+    {
+        var boton = sender as ImageButton;
+        var estudiante = boton?.CommandParameter as Estudiante;
+
+        if (estudiante is null)
+        {
+            await DisplayAlert("Error", "No se pudo obtener el id del estudiante", "Ok");
+            return;
+        }
+
+        //Mensaje de confirmación
+        bool confirmacion = await DisplayAlert("Confirmación", $"¿Está seguro que desea deshabilitar al estudiante {estudiante.NombreCompleto}?", "Si", "No");
+
+        if (confirmacion)
+        {
+            try
+            {
+                //Actualizar el estado del estudiante
+                estudiante.Estado = false;
+
+                //Actualizar el estudiante en la base de datos
+                await client.Child("Estudiantes").Child(estudiante.Id).PutAsync(estudiante);
+
+                //Mostrar mensaje de éxito
+                await DisplayAlert("Exito", $"El estudiante {estudiante.NombreCompleto} fue deshabilitado con exito", "Ok");
+
+                //Recargar la lista
+                CargarLista();
+            }
+            catch (Exception)
+            {
+            }
+        }
     }
 }
